@@ -1,6 +1,5 @@
 <div align="center">
 <!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
-<img src="images/githubbanner.gif" alt="banner">
 <br>
 
 <br>
