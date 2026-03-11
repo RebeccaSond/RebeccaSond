@@ -1,5 +1,5 @@
 <div align="center">
-<!--[![LokiObahoshe](https://github.com/LokiObahoshe/LokiObahoshe/blob/main/images/githubbanner.gif)](https://github.com/lokiobahoshe)-->
+<!--[![RebeccaSond](https://github.com/RebeccaSond/RebeccaSond/blob/main/images/githubbanner.gif)](https://github.com/RebeccaSond)-->
 <br>
 
 <br>
@@ -51,14 +51,14 @@
 
 <h3>Favorite Projects:</h3>
 <ul>
-  <li><a href="https://lokiobahoshe.github.io/WDD330FinalProject/">Poképedia</a> (<a href="https://github.com/LokiObahoshe/WDD330FinalProject">Repo</a>)</li>
-  <li><a href="https://lokiobahoshe.github.io/wdd231/project/">TrothMoth</a> (<a href="https://github.com/LokiObahoshe/wdd231/tree/main/project">Repo</a>)</li>
+  <li><a href="https://RebeccaSond.github.io/WDD330FinalProject/">Poképedia</a> (<a href="https://github.com/RebeccaSond/WDD330FinalProject">Repo</a>)</li>
+  <li><a href="https://RebeccaSond.github.io/wdd231/project/">TrothMoth</a> (<a href="https://github.com/RebeccaSond/wdd231/tree/main/project">Repo</a>)</li>
   <li><a href="https://team-777-handcraft-haven.vercel.app/">Team Project: Handcraft Haven</a> (<a href="https://github.com/RayVenShellhart/cse341_final">Repo</a>)</li>
 </ul>
 
 <br>
 <h3>Github Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=LokiObahoshe&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=RebeccaSond&show_icons=true&theme=tokyonight" />
 <br>
 
 <hr>
@@ -69,7 +69,7 @@
 
 
 <!--
-**LokiObahoshe/LokiObahoshe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RebeccaSond/RebeccaSond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
